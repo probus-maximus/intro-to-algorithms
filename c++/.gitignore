@@ -1,5 +1,5 @@
 #obj files
-/Temp/obj/*.o
+/Temp/obj/*
 
 #exe
 /Bin/*
