@@ -12,7 +12,7 @@
 
 Bin/
 [Oo]bj/
-[Tt]emp/
+[T]emp/
 
 #exclude vs files
 .vs/
