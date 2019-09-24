@@ -10,12 +10,12 @@
 
 # Build results
 
-Bin/
-[Oo]bj/
-[Tt]emp/
+**/[Bb]in/
+**/[Oo]bj/
+**/[Tt]emp/
 
 #exclude vs files
-.vs/
+**/.vs/
 *.VC.opendb
 *.sdf
 !*.vcxproj
