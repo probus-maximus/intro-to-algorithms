@@ -10,9 +10,9 @@
 
 # Build results
 
-**/[Bb]in
-**/[Oo]bj
-**/[Tt]emp
+**/[Bb]in/
+**/[Oo]bj/
+**/[Tt]emp/
 
 #exclude vs files
 **/.vs/
