@@ -4,5 +4,5 @@
 
 namespace Sort
 {
-    int* InsertionSortInt(int* A, int len);
+    int* InsertionSortInt(int* A, int len, bool inc=true);
 };
